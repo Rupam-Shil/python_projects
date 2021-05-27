@@ -10,7 +10,7 @@ Only registered students can issue books from this system which means that the s
 3. issue-information
 4. student-information
 
-These 4 tables must be created inside the database or You can import the .sql file after creating database.
+These 4 tables must be created inside the database or You can import the .sql file after creating the database.
 
 # Screenshot
 
