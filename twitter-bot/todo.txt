@@ -1,0 +1,16 @@
+Please read this before contributing to the code. Thanksss!
+
+1. fetch the data first and take action only after confirmation.
+
+2. retweet a fixed number of posts from the list of trusted users (may be .txt database).
+
+3. auto-check for update of trusted users.
+
+4. make a good gui (for input and output).
+
+_____________________________________________________________________________________________
+5. make a proper tweet analysis (#WhatsHappeningInMyanmar, retweet or like count, filter RT).
+
+6. user_timeline (check for RT, hashtag, retweet, and like).
+
+
