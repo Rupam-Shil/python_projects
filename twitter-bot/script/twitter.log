@@ -1,0 +1,123 @@
+2021-03-22 16:03:30,286:twitter: [{'code': 50, 'message': 'User not found.'}]
+2021-03-22 16:04:00,121:__main__: API not found. Open api window
+2021-03-22 16:07:53,116:__main__: API not found. Open api window
+2021-03-22 16:08:09,382:__main__: API not found. Open api window
+2021-03-22 16:08:15,256:__main__: API cannot be authenticate, removed wrong config file
+2021-03-22 16:08:25,541:__main__: API not found. Open api window
+2021-03-22 16:08:28,154:__main__: [{'code': 215, 'message': 'Bad Authentication data.'}]
+2021-03-22 16:08:31,947:__main__: [{'code': 215, 'message': 'Bad Authentication data.'}]
+2021-03-22 16:09:28,679:__main__: API not found. Open api window
+2021-03-23 21:46:27,965:twitter: Duplicate
+2021-03-23 21:46:27,972:twitter: Duplicate
+2021-03-23 21:46:27,972:twitter: Duplicate
+2021-03-23 21:46:27,972:twitter: Duplicate
+2021-03-23 21:46:27,972:twitter: Duplicate
+2021-03-24 14:38:07,598:twitter: Invalid number of tweets. [1-100]
+2021-03-25 14:29:58,301:twitter: Duplicate
+2021-03-26 21:07:34,078:twitter: Duplicate
+2021-03-26 21:07:38,887:twitter: Duplicate
+2021-03-26 21:07:44,092:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-26 21:13:32,753:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-26 21:15:35,677:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-27 15:19:05,548:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-27 15:20:34,830:twitter: Duplicate
+2021-03-27 15:21:06,015:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-27 15:21:17,232:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-27 15:25:55,399:twitter: Duplicate
+2021-03-28 20:42:09,785:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-30 20:52:18,856:twitter: Duplicate
+2021-03-30 20:52:25,037:twitter: Duplicate
+2021-03-30 20:52:49,447:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-30 20:53:18,244:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-30 20:56:41,630:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-31 21:32:50,165:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-03-31 21:32:52,737:twitter: Duplicate
+2021-03-31 21:32:52,737:twitter: Duplicate
+2021-03-31 21:32:52,737:twitter: Duplicate
+2021-03-31 21:33:03,331:twitter: Duplicate
+2021-04-01 21:18:36,164:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-01 21:38:15,469:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-01 21:38:29,033:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-12 21:31:08,062:twitter: Duplicate
+2021-04-12 21:31:10,966:twitter: Duplicate
+2021-04-12 21:33:36,926:twitter: Duplicate
+2021-04-12 21:33:40,332:twitter: Duplicate
+2021-04-12 21:33:49,382:twitter: Duplicate
+2021-04-15 14:16:31,540:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-15 14:21:43,222:twitter: Duplicate
+2021-04-18 22:03:37,710:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:04:21,876:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:04:24,574:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:04:33,185:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:04:34,641:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:04:43,289:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:11:36,884:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:11:41,108:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:11:47,670:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:11:52,335:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:16:17,311:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:16:33,498:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:16:35,070:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:17:36,332:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:17:46,232:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:17:48,146:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:01,544:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:02,844:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:07,923:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:10,830:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:27,638:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:43,775:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:18:45,162:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-18 22:19:03,970:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:38:58,647:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:14,243:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:15,518:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:29,335:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:30,624:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:32,412:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:44,913:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:39:51,872:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:43,451:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:47,654:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:49,233:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:50,828:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:52,295:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:54,953:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:47:59,426:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:48:07,356:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:50:43,799:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:50:48,709:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:50:59,488:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:51:06,068:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 20:51:08,855:twitter: Duplicate
+2021-04-20 20:51:10,171:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-20 21:00:03,776:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:29:27,206:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:29:28,601:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:29:35,951:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:30:22,630:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:30:25,620:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:30:26,747:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:30:29,145:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:12,478:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:16,099:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:19,078:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:20,236:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:23,879:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:28,631:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:31,547:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:33,591:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:37,910:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:39,651:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:41,138:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:43,041:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:45,891:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:32:50,267:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:33:58,205:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:02,262:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:05,865:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:15,156:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:20,516:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:23,195:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:34:24,358:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
+2021-04-21 20:36:18,119:twitter: [{'code': 187, 'message': 'Status is a duplicate.'}]
